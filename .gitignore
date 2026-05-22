@@ -1,0 +1,17 @@
+# บล็อกไฟล์เก็บความลับ
+.env
+
+# บล็อกโฟลเดอร์ Library ของ Node.js
+node_modules/
+
+
+# บล็อกโฟลเดอร์ Virtual Environment ของ Python (ถ้ามี)
+venv/
+.venv/
+env/
+
+# บล็อกไฟล์ตั้งค่าของโปรแกรมและไฟล์ขยะของ OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
